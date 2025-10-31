@@ -1,15 +1,6 @@
-About Me:
-Halo! Saya Ferrari Prayoga Setiyawan, seorang yang punya dua dunia: coding & otomotif. 👨‍💻🚗
+# 💫 About Me:
+Halo! Saya Ferrari Prayoga Setiyawan, seorang yang punya dua dunia: coding & otomotif. 👨‍💻🚗<br><br>💻 Di satu sisi, saya adalah Web Developer & UI/UX Designer yang suka menciptakan pengalaman digital yang menarik dan fungsional. Saya menguasai Laravel, Bootstrap, dan MySQL, serta senang bereksperimen dengan desain UI/UX agar tampilan web makin nyaman dan estetik.<br><br>🔧 Di sisi lain, saya juga seorang pecinta otomotif yang gemar ngulik mesin, troubleshooting kendaraan, hingga modifikasi. Buat saya, baik membangun sistem dalam website maupun merakit kendaraan, keduanya sama-sama butuh ketelitian & kreativitas.<br><br>✨ Saat ini, saya sedang mengembangkan beberapa proyek. Jika tertarik berdiskusi soal web development, UI/UX, atau otomotif, jangan ragu untuk menghubungi saya! 📩🔥<br><br>📩 Email: ferrariprayoga6@gmail.com<br>📱 WhatsApp: +62 898 6908 167<br>🔗 https://www.instagram.com/userwan24?igsh=NjFxdnFtaGdmMGRw
 
-💻 Di satu sisi, saya adalah Web Developer & UI/UX Designer yang suka menciptakan pengalaman digital yang menarik dan fungsional. Saya menguasai Laravel, Bootstrap, dan MySQL, serta senang bereksperimen dengan desain UI/UX agar tampilan web makin nyaman dan estetik.
-
-🔧 Di sisi lain, saya juga seorang pecinta otomotif yang gemar ngulik mesin, troubleshooting kendaraan, hingga modifikasi. Buat saya, baik membangun sistem dalam website maupun merakit kendaraan, keduanya sama-sama butuh ketelitian & kreativitas.
-
-✨ Saat ini, saya sedang mengembangkan beberapa proyek. Jika tertarik berdiskusi soal web development, UI/UX, atau otomotif, jangan ragu untuk menghubungi saya! 📩🔥
-
-📩 Email: ferrariprayoga6@gmail.com
-📱 WhatsApp: +62 898 6908 167
-🔗 https://www.instagram.com/userwan24?igsh=NjFxdnFtaGdmMGRw
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/userwan24) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ferrariprayoga6@gmail.com) 
 
